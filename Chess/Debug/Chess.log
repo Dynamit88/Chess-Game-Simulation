@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\vano\source\repos\chess\chess\piece.h(23): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vano\source\repos\chess\chess\simulation.h(24): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\vano\source\repos\chess\chess\simulation.h(39): warning C4091: 'static ': ignored on left of 'simulation::Simulation' when no variable is declared
+c:\users\vano\source\repos\chess\chess\game.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chess.vcxproj -> C:\Users\Vano\source\repos\Chess\Debug\Chess.exe
